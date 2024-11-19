@@ -31,8 +31,8 @@
 #define AUTO_NIGHT_ENABLED  false // автоматическая яркость, исходя из освещенности комнаты
 
 #define INDICATOR_QTY 7	// количество индикаторов (Dots) (H)(H) (M)(M) (S)(S)
-#define BRIGHT 5	// яркость цифр дневная, %
-#define BRIGHT_NIGHT 5	// яркость ночная, % // 20
+#define BRIGHT 50	// яркость цифр дневная, %
+#define BRIGHT_NIGHT 10	// яркость ночная, % // 20
 #define NIGHT_START 20	// час перехода на ночную подсветку (BRIGHT_NIGHT)
 #define NIGHT_END 8	// час перехода на дневную подсветку (BRIGHT) // 7
 
